@@ -30,8 +30,8 @@ function clr(){
 }
 
 function calculate(){
-    var a = parseInt(num1);
-    var b = parseInt(num2);
+    var a = parseFloat(num1);
+    var b = parseFloat(num2);
     if (opperator === "+"){
         sol = a + b;
     }
