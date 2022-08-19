@@ -1,5 +1,5 @@
 function infoPop(){
-    alert("For this project I created a 4 founction calculator, meaning it can recieve numeric input, run basic arithmitic, clear, and output solution to arthmictic equation.");
+    alert("For this project I created a 4 founction calculator, meaning it can recieve numeric input, run basic arithmitic, clear, and output solution to arthmitic equation.");
 }
 
 setTimeout(infoPop, 100);
